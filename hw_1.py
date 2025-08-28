@@ -1,5 +1,4 @@
 # part 1
-
 print("Hello World")
 
 # part 2
